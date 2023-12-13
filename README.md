@@ -1,6 +1,6 @@
 # DirMagic a Directory-organizer
 
-![image](assets/DirMagic.png)
+![image](/assets/DirMagic.png)
 
 ## What is DirMagic ?
 A bash script to organise your files either by extension or by Date
