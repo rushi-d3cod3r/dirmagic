@@ -1,6 +1,14 @@
-# DirMagic a Directory-organizer
+<h1 align="center">
+  <b>DirMagic</b>
+  <br>
+</h1> 
+<h3 align="center">
+A Directory/ File organising script
+</p>
+<br/
 
-[DirMagic](https://github.com/rushi-d3cod3r/dirmagic/assets/85064514/9bc19715-f34b-4d9b-9bd3-30fa96b5605a)
+
+![DirMagic](https://github.com/rushi-d3cod3r/dirmagic/assets/85064514/9bc19715-f34b-4d9b-9bd3-30fa96b5605a)
 
 
 ## What is DirMagic ?
